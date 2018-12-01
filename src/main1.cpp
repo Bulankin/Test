@@ -23,4 +23,7 @@ int main()
 		 printf("Access denied");
 
 	return 0;
+
+	getchar();
+
 }
